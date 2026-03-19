@@ -4,7 +4,7 @@ An interactive dashboard that converts Speed (km/h or mph) into Pace (min/km or 
 ### 🔗 Live Demo
 **Check out the app here:** [https://speed-pace-kozehfhn2ygguw7ay5fjpr.streamlit.app](https://speed-pace-kozehfhn2ygguw7ay5fjpr.streamlit.app)
 
-🔍 Why this exists?
+### 🔍 Why this exists?
 When driving, it is easy to push on the accelator thinking that adding 5 units of speed will help us save plenty of time, this isin fact, wrong. This tool visualizes the inverse relationship giving prominence to time rather then speed, helping users understand how changes in speed do not significantly mpact their per-unit time.
 
 ### 🛠️ Key Features
